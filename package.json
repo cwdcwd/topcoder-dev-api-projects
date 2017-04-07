@@ -1,6 +1,6 @@
 {
-  "name": "@lazybaer/topcoder-api-projects",
-  "version": "1.0.0",
+  "name": "topcoder-api-projects",
+  "version": "1.0.1",
   "description": "Services_that_provide_access_and_interaction_with_user_projects_",
   "license": "ISC",
   "main": "src/index.js",
