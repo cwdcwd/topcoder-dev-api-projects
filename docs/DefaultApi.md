@@ -1,6 +1,6 @@
 # TcProjectService.DefaultApi
 
-All URIs are relative to *http://api.topcoder.com/v3*
+All URIs are relative to *http://api.topcoder-dev.com/v3*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

@@ -44,9 +44,9 @@
     /**
      * The base URL against which to resolve every API call's (relative) path.
      * @type {String}
-     * @default http://api.topcoder.com/v3
+     * @default http://api.topcoder-dev.com/v3
      */
-    this.basePath = 'http://api.topcoder.com/v3'.replace(/\/+$/, '');
+    this.basePath = 'http://api.topcoder-dev.com/v3'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.

@@ -1,5 +1,5 @@
 {
-  "name": "topcoder-api-projects",
+  "name": "topcoder-dev-api-projects",
   "version": "1.0.1",
   "description": "Services_that_provide_access_and_interaction_with_user_projects_",
   "license": "ISC",
@@ -21,11 +21,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cwdcwd/topcoder-api-projects.git"
+    "url": "git+ssh://git@github.com/cwdcwd/topcoder-dev-api-projects.git"
   },
   "author": "lazybaer",
   "bugs": {
-    "url": "https://github.com/cwdcwd/topcoder-api-projects/issues"
+    "url": "https://github.com/cwdcwd/topcoder-dev-api-projects/issues"
   },
-  "homepage": "https://github.com/cwdcwd/topcoder-api-projects#readme"
+  "homepage": "https://github.com/cwdcwd/topcoder-dev-api-projects#readme"
 }
